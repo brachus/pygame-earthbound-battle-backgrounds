@@ -22,7 +22,7 @@ I even resorted to unrolling a couple loops in an attempt to speed up hot code.
 
 ## Running
 
-`python main.py`
+` $ python main.py`
 
 Required:
 + Python 2.7
